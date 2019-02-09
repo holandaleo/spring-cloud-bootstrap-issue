@@ -1,0 +1,6 @@
+encrypt:
+  keyStore:
+    location: classpath:/keystore.jks
+    password: notsosecret
+    alias: mypair
+    secret: topsecret
